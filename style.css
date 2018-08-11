@@ -1,0 +1,221 @@
+@import url('https://fonts.maateen.me/mukti/font.css');
+@import url('https://fonts.maateen.me/charukola-ultra-light/font.css');
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #193549;
+    font-family: Arial, sans-sarif;
+}
+p{
+	font-family: 'Mukti', sans-serif;
+}
+h1{
+	font-family:'CharukolaUltraLight', sans-serif;
+}
+
+.mainwrapper {
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+/*nav bar start form here */
+
+.mainwrapper>.mainheader {
+    background: black;
+    margin-top: 15px;
+    -webkit-box-shadow: -1px 0px 38px 3px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -1px 0px 38px 3px rgba(0, 0, 0, 0.75);
+    box-shadow: -1px 0px 38px 3px rgba(0, 0, 0, 0.75);
+}
+
+.mainwrapper>.mainheader>h1 {
+    color: #fff;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.mainwrapper>.mainheader>p {
+    color: white;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+
+/* main wrapper end form here */
+
+
+/* Centrerpro start form here */
+
+.centerpro {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.profile {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.profile>img {
+    width: 100%;
+    height: auto;
+    -webkit-box-shadow: -1px 0px 38px 3px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -1px 0px 38px 3px rgba(0, 0, 0, 0.75);
+    box-shadow: -1px 0px 38px 3px rgba(0, 0, 0, 0.75);
+}
+
+
+/* centerpro end from here */
+
+.wrapi {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.wrapi h3 {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: #fff;
+    font-family: Agency FB;
+    font-size: 30px;
+}
+
+
+/* link-wrapper start from here */
+
+.linkwrapper {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.linkwrapper>.text {
+    float: left;
+    width: 350px;
+    margin-right: 54.5px;
+    margin-top: 10px;
+}
+
+.nomargin {
+    margin-right: 0px;
+}
+
+.text p a {
+    color: #fff;
+    margin-top: 20px;
+    margin-left: 10px;
+    text-decoration: none;
+    transition: 1s;
+}
+
+.text a:hover {
+    color: #57A255;
+}
+
+
+/* content wrap start from here */
+
+.contentwrap {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.contenthtml {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.content {
+    width: 300px;
+    height: auto;
+    float: left;
+    margin-right: 65px;
+}
+
+.content img {
+    width: 100%;
+    height: 200px;
+    margin-top: 65px;
+    transition: 1s;
+}
+.content img:hover{
+	-webkit-box-shadow: -1px 0px 38px 3px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 0px 38px 3px rgba(0,0,0,0.75);
+    box-shadow: -1px 0px 38px 3px rgba(0,0,0,0.75); 
+}
+
+.content h1 {
+    color: #fff;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.content p {
+    color: #fff;
+    text-align: justify;
+}
+
+.content button {
+    padding: 10px 15px;
+    margin-top: 10px;
+    background: #1E7E79;
+    border: none;
+    transition: 1s;
+}
+
+.content button a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
+}
+.content button:hover{
+	-webkit-box-shadow: -1px 0px 38px 3px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 0px 38px 3px rgba(0,0,0,0.75);
+    box-shadow: -1px 0px 38px 3px rgba(0,0,0,0.75); 
+}
+.nomargin {
+    margin-right: 0px;
+}
+.leftslide{
+    width:80%;
+    margin:0 auto;
+}
+.lslide{
+    width:50px;
+    height: 45px;
+    margin-top: 40px;
+    background: #117A65;
+    float:left;
+    transition: 1s;
+}
+.lslide p{
+    color:#117A65;
+    margin-top: 8px;
+    margin-left: 20px;
+}
+.lslide:hover{
+    width:120px;
+    height: 45px;
+    background: #CB4335;
+    border-radius: 0px 15px 2px 2px;
+}
+.lslide p:hover{
+    color:#fff;
+}
+.blanki{
+	width:100%;
+	height: 300px;
+	background: #193549;
+	float:left;
+}
+/*  -webkit-box-shadow: -1px 0px 38px 3px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 0px 38px 3px rgba(0,0,0,0.75);
+box-shadow: -1px 0px 38px 3px rgba(0,0,0,0.75);  */
